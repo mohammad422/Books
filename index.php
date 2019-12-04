@@ -1,3 +1,3 @@
 <?php
-//header to index controller file
+//header to index controller 
 header("location:Controllers/index.controller.php");
